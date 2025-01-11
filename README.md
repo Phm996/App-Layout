@@ -1,6 +1,6 @@
 # App Layout
 
-Atividade do Taltento tech, Modulo 2 de desenvolvimento WEB.
+Atividade do Talento tech, Modulo 2 de desenvolvimento WEB.
 
 ## Getting Started
 
